@@ -1,0 +1,11 @@
+#wpbody-content{
+    background-color: #0d775e18;
+}
+div.mc_to_slider  h3.heading {
+    color: #020202!important;
+    font-size: 17px!important;
+    margin: 1em 0!important;
+    border: 1px solid #0d775e61!important;
+    padding: 9px 16px!important;
+    border-radius: 20px!important;
+}

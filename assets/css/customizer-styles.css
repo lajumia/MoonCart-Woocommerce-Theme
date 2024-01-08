@@ -1,0 +1,50 @@
+li#customize-control-mc_logo span {
+    color: #0D775E;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+li#customize-control-search_bar {
+    border: 2px solid #0D775E;
+    padding-left: 7px;
+}
+
+input#_customize-input-search_bar {width: 25px;height: 25px;}
+
+input#_customize-input-search_bar::before {
+    width: 30px;
+}
+
+
+
+
+
+
+#customize-control-add_contact_number label {
+    color:#0D775E
+}
+#customize-control-add_support_text label {
+    color:#0D775E
+}
+
+
+
+
+
+li#customize-control-top_header_right_side {
+    border: 2px solid #0D775E;
+    padding-left: 7px;
+}
+
+input#_customize-input-top_header_right_side {
+    width: 25px;
+    height: 25px;
+}
+
+input#_customize-control-top_header_right_side::before {
+    width: 30px;
+}
